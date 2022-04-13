@@ -1,0 +1,15 @@
+.body {
+    background-image: url("bi.jpeg");
+}
+
+#head {
+    text-align: center;
+}
+
+.detail {
+    font-size: xx-large;
+}
+
+.text {
+    font-size: xx-large;
+}
